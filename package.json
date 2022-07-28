@@ -1,0 +1,9 @@
+{
+  "name": "concurrenthttpclientrequests",
+  "version": "1.0.0",
+  "description": "Demo: Concurrent requests with HttpClient\r ---",
+  "scripts": {
+      "start": "dotnet run --project src/ConcurrentHttpClientRequests/ConcurrentHttpClientRequests.csproj"
+  },
+  "license": "BSD-2-Clause"
+}
